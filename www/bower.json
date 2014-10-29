@@ -1,0 +1,21 @@
+{
+  "name": "outliner-ember",
+  "version": "1.0.0",
+  "authors": [
+    "Pablo Lluch <pablo.lluch@gmail.com>"
+  ],
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ember": "~1.8.0",
+    "ember-data": "1.0.0-beta.11"
+  }
+}
